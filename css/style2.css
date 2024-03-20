@@ -1,0 +1,28 @@
+/* Gaya untuk kelas h2 */
+h2 {
+    font-size: 24px; /* Ukuran font */
+    font-weight: bold; /* Ketebalan font */
+    font-family: Arial, sans-serif; /* Jenis font dan font cadangan */
+    color: #333; /* Warna teks */
+    margin: 10px 0; /* Ruang atas dan bawah */
+    text-transform: uppercase; /* Transformasi teks menjadi huruf besar */
+  }
+  
+  /* Gaya untuk kelas p */
+p {
+    font-size: 16px; /* Ukuran font */
+    line-height: 1.5; /* Tinggi baris */
+    font-family: Helvetica, sans-serif; /* Jenis font dan font cadangan */
+    color: #666; /* Warna teks */
+    margin: 10px 0; /* Ruang atas dan bawah */
+  }
+  
+  /* Gaya link dalam paragraf */
+p a {
+    text-decoration: underline; /* Garis bawah pada tautan */
+    color: #0077cc; /* Warna tautan */
+  }
+  
+  /* Contoh warna latar belakang untuk pilihan Anda */
+  /* background-color: #f2f2f2; */
+  
